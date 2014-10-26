@@ -2,7 +2,7 @@
 
 # Source Gemenviron
 source /home/gempak/NAWIPS/Gemenviron
-set TopLevelDir=~/gridplot
+set TopLevelDir=~/examples
 cd $TopLevelDir
 
 #  Set display so we can use the _gf programs
