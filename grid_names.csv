@@ -1,0 +1,119 @@
+<h2>GEMPAK Grid Display</h2>
+cip,AWC Current Icing Product (CIP) 
+cmcreg,Regional Canadian Model (CMC)
+coamps_centam,FNMOC COAMPS Central America
+coamps_epac,FNMOC COAMPS Eastern Pacific
+coamps_europe,FNMOC COAMPS Europe
+coamps_watl,FNMOC COAMPS Western Atlantic
+ecmf1,ECMWF Global
+ecmf2,ECMWF Tropical
+ecmw,ecmw
+egrr255,UKMET EGRR
+ensthin,GFS Ensemble Data on Thin Grid Global 
+co,Unidata Colorado WRF-NMM
+dgex,Downscaled GFS with Eta/NAM Extension (DGEX) CONUS 12 km
+dgex-ak, DGEX Alaska 12 km
+gfs,GFS 004 Global 0.5 deg 
+nam218,NAM 218 CONUS 12 km
+nam242,NAM 242 Alaska Polar Stereographic 11.25 km
+navgem,NAVGEM Global 0.5 deg
+forecast,NHC Gridded Marine Forecasts Global 0.5 deg
+primary,Unidata WRF-NMM CONUS Floater
+gefs_gep,GFS Ensemble Global 1.0 deg
+gfs002,GFS 002 Global 2.5 deg
+gfs160,GFS 160 Alaska Polar Stereographic 47.5 km
+gfs161,GFS 161 Puerto Rico 0.5 deg
+gfs211,GFS 211 CONUS 80 km
+gfs212,GFS 212 CONUS 40 km
+gfs213,GFS 213 CONUS Polar Stereographic 95.25 km
+gfs254,GFS 254 Pacific 40 km
+gfs703,GFS 703 (#003) Global 1.0 deg
+gfsmos,GFS Model Output Statistics CONUS 
+ice219,Sea Ice Northern Hem 25 km
+ice220,Sea Ice Southern Hem 25 km
+ice235,Sea Ice Global 0.5 deg
+icw,ICW CONUS 40 km
+kmsr255,NOHRSC Hydrological Grids 
+lamp,LAMP 2.5 km
+nam104,NAM 104 Polar Stereographic 90 km
+nam207,NAM 207 Alaska Polar Stereographic 95.25 km 
+nam211,NAM 211 CONUS 80 km
+nam212,NAM 212 CONUS 40 km
+nam215,NAM 215 CONUS Regional 20 km
+nam216,NAM 216 Alaska Polar Stereographic 45 km
+nam217,NAM 217 Alaska Polar Stereographic 22.5 km
+nam237,NAM 237 Puerto Rico FAA Regional 32 km
+ncwd,NCWD National Convective Weather Diagnostic Grids
+ndfd,NDFD CONUS Grid 197 (NGRID)
+ndfd_conduit,NDFD CONUS Grid 197 (CONDUIT)
+nww,NOAA Wave Watch
+ocn,OCN Optimal Climate Normals
+qpe218,QPE 12 km
+radar,Radar Coded Message Grids
+sref_ak,sref_ak
+sref_pa,sref_pa
+sref_us,sref_us
+sst,SST
+subc150255,subc150255
+subc152255,subc152255
+subc153218,subc153218
+subc153255,subc153255
+subc154218,subc154218
+subc154255,subc154255
+subc155218,subc155218
+subc155255,subc155255
+subc156218,subc156218
+subc156255,subc156255
+subc157218,subc157218
+subc157255,subc157255
+subc158218,subc158218
+subc158255,subc158255
+subc159218,subc159218
+subc159255,subc159255
+subc160218,subc160218
+subc160255,subc160255
+subc161218,subc161218
+subc161255,subc161255
+subc162255,subc162255
+thin,GFS Thin Ensemble Global
+turb,AWC Turbulence Grid
+ukm019255,ukm019255
+ukmet,ukmet
+ukmwav255,ukmwav255
+ww3_global,NOAA Wave Watch 3 Global 1.25x1.25 Grid 233
+ww3_wnatl,wave238,NOAA Wave Watch 3 Regional Western North Atlantic 0.250 deg Grid 238
+ww3_alaska,NOAA Wave Watch 3 Regional Alaska Waters Grid 239
+ww3_wnatl_hurr,NOAA Wave Watch 3 Regional North Atlantic Hurricane 0.250 deg Grid 244
+ww3_enpac,NOAA Wave Watch 3 Regional Eastern North Pacific Hurricane 0.250 deg Grid 253
+fnmoc_ncoda,FNMOC Navy Coupled Ocean Data Assimilation (NCODA) Model
+fnmoc_farop,FNMOC Forecast of Aerosol Radiative Optical Properties (FAROP) Model
+fnmoc_ww3_europe,FNMOC WW3 Mediterranean
+fnmoc_ww3_global,FNMOC WW3 Global 1.0 deg
+nww3_alaska,NOAA WW3 Regional Alaska 
+nww3_coastal_alaska,NOAA WW3 Coastal Alaska
+nww3_coastal_east_coast,NOAA WW3 Coastal US East Coast
+nww3_coastal_west_coast,NOAA WW3 Coastal US West Coast
+nww3_eastern_pacific,NOAA WW3 Regional Eastern Pacific  
+nww3_global,NOAA Wave Watch 3 (WW3) Global 0.5 deg
+nww3_us_east_coast,NOAA WW3 US East Coast
+nww3_us_west_coast,NOAA WW3 US West Coast
+rtma_2p5km,RTMA CONUS Grid 184 2.5 km
+rtma_5km,RTMA CONUS Grid 188 5.0 km (CONDUIT)
+rtma,RTMA CONUS Grid 188 5.0 km (NGRID)
+rtma-guam,RTMA Guam Grid 199 2.5 km 
+ruc236,RAP CONUS Grid 236 40 km (NGRID)
+rap20km,RAP CONUS Grid 252 20 km (CONDUIT)
+rap40km,RAP CONUS Grid 236 40 km (CONDUIT)
+firewxnest,NAM Firewxnest CONUS Floater 1.33 km
+_amps,Antarctic Mesoscale Prediction System (AMPS)
+ocn5deg,HDS NOAA WW3 Global 5 deg
+ocn2deg,HDS NOAA WW3 Global 2 deg
+ocn1p25,HDS NOAA WW3 Global 1.25x1.25
+_10km, AMPS Antarctica 10 km 
+_30km, AMPS South Pole 30 km
+_peninsula, AMPS Antarctic Peninsula 3.3 km
+_ross-beardmore, AMPS Ross-Beardmore 10 km
+_ross-island, AMPS Ross Island 
+
+
+
