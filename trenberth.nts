@@ -1,0 +1,24 @@
+GLEVEL    700              ! 500:1000  ! 500:1000
+GVCORD    pres
+PANEL     0
+SKIP       
+SCALE     5                ! 0 ! 0 
+GDPFUN    avor(wnd)        ! ldf(hght) ! thrm(hght)
+TYPE      f                ! c ! A
+CONTUR    3
+CINT                       ! 60
+LINE                       ! 31//3
+FINT      2/-4/30
+FLINE     28;28-13-1
+HILO       
+HLSYM      
+CLRBAR  31/h/lc/.5;0/1;.018/|.8 !
+WIND      0 ! ! am31/0.2///0.5
+REFVEC    10
+TITLE     1/-1             ! 1/-2 ! 1/-3 
+TEXT      0.65/2//hw
+CLEAR     n
+IJSKIP    10 ! ! 40
+MAP       1
+MSCALE     
+LATLON    0
