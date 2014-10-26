@@ -1,6 +1,6 @@
 #!/bin/csh -f
 source /home/gempak/NAWIPS/Gemenviron
-cd ~/examples/
+cd ~/unidata-gempak-workshop/
 cd level3
 rm -rf *
 setenv DISPLAY :0.0

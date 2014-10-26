@@ -2,7 +2,7 @@
 
 # Source Gemenviron
 source /home/gempak/NAWIPS/Gemenviron
-set TopLevelDir=~/examples
+set TopLevelDir=~/unidata-gempak-workshop
 cd $TopLevelDir
 
 #  Set display so we can use the _gf programs

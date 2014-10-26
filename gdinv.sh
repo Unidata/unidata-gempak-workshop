@@ -2,7 +2,7 @@
 export DISPLAY=:0.0
 . /home/gempak/NAWIPS/Gemenviron.profile
 rm -rf model_data.html
-TopLevelDir=~/examples/
+TopLevelDir=~/unidata-gempak-workshop
 export NCDESK=$TopLevelDir/tables/
 
 SKIPIM=
