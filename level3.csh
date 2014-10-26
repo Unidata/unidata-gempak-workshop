@@ -1,7 +1,7 @@
 #!/bin/csh -f
 source /home/gempak/NAWIPS/Gemenviron
 cd ~/examples/
-cd gifs
+cd level3
 rm -rf *
 setenv DISPLAY :0.0
 echo '' > nexr.html
