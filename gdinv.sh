@@ -302,9 +302,9 @@ echo '<table><tr>' >> model_data.html
 echo '<th>World CED Projection</th>' >> model_data.html
 echo '<th>Default Grid Projection</th>' >> model_data.html
 echo '</tr><tr><td>' >> model_data.html
-echo '<a href=/software/gempak/grids/'${gifimg}'><img width=450 border=0 src=/software/gempak/grids/'${gifimg}'></a>' >> model_data.html
+echo '<a href='${gifimg}'><img width=450 border=0 src='${gifimg}'></a>' >> model_data.html
 echo '</td><td>' >> model_data.html
-echo '<a href=/software/gempak/grids/dset_'${gifimg}'><img width=450 src=/software/gempak/grids/dset_'${gifimg}'></a>' >> model_data.html
+echo '<a href=dset_'${gifimg}'><img width=450 src=dset_'${gifimg}'></a>' >> model_data.html
 echo '</td></tr></table>' >> model_data.html
 echo '<br><br><b>.nts file contents</b><pre>'>> model_data.html
 cat gd-${gridname}.nts >> model_data.html
