@@ -1,8 +1,9 @@
 #!/bin/bash -f
 export DISPLAY=:0.0
-. /home/gempak/NAWIPS/Gemenviron.profile
+. /opt/awips/NAWIPS/Gemenviron.profile
 rm -rf model_data.html
 TopLevelDir=~/unidata-gempak-workshop
+cd $TopLevelDir/gifs/
 export NCDESK=$TopLevelDir/tables/
 
 SKIPIM=
@@ -96,8 +97,6 @@ rm -rf data.dat
 
 
 # create domain image if -g specified
-if [[ ! -z $SKIPIM ]]
-then
 
 
 single='cmcreg'
@@ -310,7 +309,6 @@ echo '</td></tr></table>' >> model_data.html
 echo '<br><br><b>.nts file contents</b><pre>'>> model_data.html
 cat gd-${gridname}.nts >> model_data.html
 echo '</pre>' >> model_data.html
-fi
 
 done
 

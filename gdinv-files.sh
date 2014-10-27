@@ -1,5 +1,5 @@
 #!/bin/bash -f
-. /home/gempak/NAWIPS/Gemenviron.profile
+. /opt/awips/NAWIPS/Gemenviron.profile
 # all of this sed crap for templates
 #
 #find $MODEL -type f | grep -v scour| cut -d"/" -f7 | sed 's/2014[0-9]\{6\}/????????/' | sed 's/2014[0-9]\{4\}_/????????_/g' | sed 's/f[0-9]\{3\}/f???/' | sed 's/_ge[c|p][0-9]\{2\}/_ge???/' |sed 's/?\+/\*/' | sort | uniq
