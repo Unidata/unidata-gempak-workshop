@@ -11,7 +11,7 @@ SINGLE=
 SHOWGD=0
 OUTFIL=model_data.html
 
-dump=$(./gdinv-files.sh)
+dump=$(../gdinv-files.sh)
 for var in $dump
 do
 
